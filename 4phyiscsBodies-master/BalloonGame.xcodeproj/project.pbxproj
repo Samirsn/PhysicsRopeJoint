@@ -37,15 +37,15 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		D56006C018B2896700D0C342 /* 4physicsBodys_Linked_By_RopeJoint.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = 4physicsBodys_Linked_By_RopeJoint.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		D56006C018B2896700D0C342 /* BalloonGame.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BalloonGame.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D56006C318B2896700D0C342 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		D56006C518B2896700D0C342 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
 		D56006C718B2896700D0C342 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		D56006C918B2896800D0C342 /* SpriteKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SpriteKit.framework; path = System/Library/Frameworks/SpriteKit.framework; sourceTree = SDKROOT; };
-		D56006CD18B2896800D0C342 /* 4physicsBodys_Linked_By_RopeJoint-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "4physicsBodys_Linked_By_RopeJoint-Info.plist"; sourceTree = "<group>"; };
+		D56006CD18B2896800D0C342 /* BalloonGame-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "BalloonGame-Info.plist"; sourceTree = "<group>"; };
 		D56006CF18B2896800D0C342 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		D56006D118B2896800D0C342 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		D56006D318B2896800D0C342 /* 4physicsBodys_Linked_By_RopeJoint-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "4physicsBodys_Linked_By_RopeJoint-Prefix.pch"; sourceTree = "<group>"; };
+		D56006D318B2896800D0C342 /* BalloonGame-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "BalloonGame-Prefix.pch"; sourceTree = "<group>"; };
 		D56006D418B2896800D0C342 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		D56006D518B2896800D0C342 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
 		D56006D818B2896800D0C342 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
@@ -55,9 +55,9 @@
 		D56006DE18B2896800D0C342 /* MyScene.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MyScene.m; sourceTree = "<group>"; };
 		D56006E018B2896800D0C342 /* Spaceship.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Spaceship.png; sourceTree = "<group>"; };
 		D56006E218B2896800D0C342 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
-		D56006E818B2896800D0C342 /* 4physicsBodys_Linked_By_RopeJointTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = 4physicsBodys_Linked_By_RopeJointTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		D56006E818B2896800D0C342 /* BalloonGameTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = BalloonGameTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		D56006E918B2896800D0C342 /* XCTest.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = XCTest.framework; path = Library/Frameworks/XCTest.framework; sourceTree = DEVELOPER_DIR; };
-		D56006F118B2896800D0C342 /* 4physicsBodys_Linked_By_RopeJointTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "4physicsBodys_Linked_By_RopeJointTests-Info.plist"; sourceTree = "<group>"; };
+		D56006F118B2896800D0C342 /* BalloonGameTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "BalloonGameTests-Info.plist"; sourceTree = "<group>"; };
 		D56006F318B2896800D0C342 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		D56006F518B2896800D0C342 /* _physicsBodys_Linked_By_RopeJointTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = _physicsBodys_Linked_By_RopeJointTests.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -100,8 +100,8 @@
 		D56006C118B2896700D0C342 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				D56006C018B2896700D0C342 /* 4physicsBodys_Linked_By_RopeJoint.app */,
-				D56006E818B2896800D0C342 /* 4physicsBodys_Linked_By_RopeJointTests.xctest */,
+				D56006C018B2896700D0C342 /* BalloonGame.app */,
+				D56006E818B2896800D0C342 /* BalloonGameTests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -138,10 +138,10 @@
 		D56006CC18B2896800D0C342 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
-				D56006CD18B2896800D0C342 /* 4physicsBodys_Linked_By_RopeJoint-Info.plist */,
+				D56006CD18B2896800D0C342 /* BalloonGame-Info.plist */,
 				D56006CE18B2896800D0C342 /* InfoPlist.strings */,
 				D56006D118B2896800D0C342 /* main.m */,
-				D56006D318B2896800D0C342 /* 4physicsBodys_Linked_By_RopeJoint-Prefix.pch */,
+				D56006D318B2896800D0C342 /* BalloonGame-Prefix.pch */,
 			);
 			name = "Supporting Files";
 			sourceTree = "<group>";
@@ -158,7 +158,7 @@
 		D56006F018B2896800D0C342 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
-				D56006F118B2896800D0C342 /* 4physicsBodys_Linked_By_RopeJointTests-Info.plist */,
+				D56006F118B2896800D0C342 /* BalloonGameTests-Info.plist */,
 				D56006F218B2896800D0C342 /* InfoPlist.strings */,
 			);
 			name = "Supporting Files";
@@ -167,9 +167,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		D56006BF18B2896700D0C342 /* 4physicsBodys_Linked_By_RopeJoint */ = {
+		D56006BF18B2896700D0C342 /* BalloonGame */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = D56006F918B2896800D0C342 /* Build configuration list for PBXNativeTarget "4physicsBodys_Linked_By_RopeJoint" */;
+			buildConfigurationList = D56006F918B2896800D0C342 /* Build configuration list for PBXNativeTarget "BalloonGame" */;
 			buildPhases = (
 				D56006BC18B2896700D0C342 /* Sources */,
 				D56006BD18B2896700D0C342 /* Frameworks */,
@@ -179,14 +179,14 @@
 			);
 			dependencies = (
 			);
-			name = 4physicsBodys_Linked_By_RopeJoint;
+			name = BalloonGame;
 			productName = 4physicsBodys_Linked_By_RopeJoint;
-			productReference = D56006C018B2896700D0C342 /* 4physicsBodys_Linked_By_RopeJoint.app */;
+			productReference = D56006C018B2896700D0C342 /* BalloonGame.app */;
 			productType = "com.apple.product-type.application";
 		};
-		D56006E718B2896800D0C342 /* 4physicsBodys_Linked_By_RopeJointTests */ = {
+		D56006E718B2896800D0C342 /* BalloonGameTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = D56006FC18B2896800D0C342 /* Build configuration list for PBXNativeTarget "4physicsBodys_Linked_By_RopeJointTests" */;
+			buildConfigurationList = D56006FC18B2896800D0C342 /* Build configuration list for PBXNativeTarget "BalloonGameTests" */;
 			buildPhases = (
 				D56006E418B2896800D0C342 /* Sources */,
 				D56006E518B2896800D0C342 /* Frameworks */,
@@ -197,9 +197,9 @@
 			dependencies = (
 				D56006EE18B2896800D0C342 /* PBXTargetDependency */,
 			);
-			name = 4physicsBodys_Linked_By_RopeJointTests;
+			name = BalloonGameTests;
 			productName = 4physicsBodys_Linked_By_RopeJointTests;
-			productReference = D56006E818B2896800D0C342 /* 4physicsBodys_Linked_By_RopeJointTests.xctest */;
+			productReference = D56006E818B2896800D0C342 /* BalloonGameTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
 /* End PBXNativeTarget section */
@@ -216,7 +216,7 @@
 					};
 				};
 			};
-			buildConfigurationList = D56006BB18B2896700D0C342 /* Build configuration list for PBXProject "4physicsBodys_Linked_By_RopeJoint" */;
+			buildConfigurationList = D56006BB18B2896700D0C342 /* Build configuration list for PBXProject "BalloonGame" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -229,8 +229,8 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				D56006BF18B2896700D0C342 /* 4physicsBodys_Linked_By_RopeJoint */,
-				D56006E718B2896800D0C342 /* 4physicsBodys_Linked_By_RopeJointTests */,
+				D56006BF18B2896700D0C342 /* BalloonGame */,
+				D56006E718B2896800D0C342 /* BalloonGameTests */,
 			);
 		};
 /* End PBXProject section */
@@ -282,7 +282,7 @@
 /* Begin PBXTargetDependency section */
 		D56006EE18B2896800D0C342 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = D56006BF18B2896700D0C342 /* 4physicsBodys_Linked_By_RopeJoint */;
+			target = D56006BF18B2896700D0C342 /* BalloonGame */;
 			targetProxy = D56006ED18B2896800D0C342 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -393,10 +393,10 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
-				GCC_PREFIX_HEADER = "4physicsBodys_Linked_By_RopeJoint/4physicsBodys_Linked_By_RopeJoint-Prefix.pch";
-				INFOPLIST_FILE = "4physicsBodys_Linked_By_RopeJoint/4physicsBodys_Linked_By_RopeJoint-Info.plist";
+				GCC_PREFIX_HEADER = "4physicsBodys_Linked_By_RopeJoint/BalloonGame-Prefix.pch";
+				INFOPLIST_FILE = "4physicsBodys_Linked_By_RopeJoint/BalloonGame-Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 5.1;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = BalloonGame;
 				SPRITEKIT_TEXTURE_ATLAS_OUTPUT = YES;
 				WRAPPER_EXTENSION = app;
 			};
@@ -408,10 +408,10 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
-				GCC_PREFIX_HEADER = "4physicsBodys_Linked_By_RopeJoint/4physicsBodys_Linked_By_RopeJoint-Prefix.pch";
-				INFOPLIST_FILE = "4physicsBodys_Linked_By_RopeJoint/4physicsBodys_Linked_By_RopeJoint-Info.plist";
+				GCC_PREFIX_HEADER = "4physicsBodys_Linked_By_RopeJoint/BalloonGame-Prefix.pch";
+				INFOPLIST_FILE = "4physicsBodys_Linked_By_RopeJoint/BalloonGame-Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 5.1;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = BalloonGame;
 				SPRITEKIT_TEXTURE_ATLAS_OUTPUT = YES;
 				WRAPPER_EXTENSION = app;
 			};
@@ -433,8 +433,8 @@
 					"DEBUG=1",
 					"$(inherited)",
 				);
-				INFOPLIST_FILE = "4physicsBodys_Linked_By_RopeJointTests/4physicsBodys_Linked_By_RopeJointTests-Info.plist";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				INFOPLIST_FILE = "4physicsBodys_Linked_By_RopeJointTests/BalloonGameTests-Info.plist";
+				PRODUCT_NAME = BalloonGameTests;
 				TEST_HOST = "$(BUNDLE_LOADER)";
 				WRAPPER_EXTENSION = xctest;
 			};
@@ -452,8 +452,8 @@
 				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "4physicsBodys_Linked_By_RopeJoint/4physicsBodys_Linked_By_RopeJoint-Prefix.pch";
-				INFOPLIST_FILE = "4physicsBodys_Linked_By_RopeJointTests/4physicsBodys_Linked_By_RopeJointTests-Info.plist";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				INFOPLIST_FILE = "4physicsBodys_Linked_By_RopeJointTests/BalloonGameTests-Info.plist";
+				PRODUCT_NAME = BalloonGameTests;
 				TEST_HOST = "$(BUNDLE_LOADER)";
 				WRAPPER_EXTENSION = xctest;
 			};
@@ -462,7 +462,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		D56006BB18B2896700D0C342 /* Build configuration list for PBXProject "4physicsBodys_Linked_By_RopeJoint" */ = {
+		D56006BB18B2896700D0C342 /* Build configuration list for PBXProject "BalloonGame" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				D56006F718B2896800D0C342 /* Debug */,
@@ -471,7 +471,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		D56006F918B2896800D0C342 /* Build configuration list for PBXNativeTarget "4physicsBodys_Linked_By_RopeJoint" */ = {
+		D56006F918B2896800D0C342 /* Build configuration list for PBXNativeTarget "BalloonGame" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				D56006FA18B2896800D0C342 /* Debug */,
@@ -480,7 +480,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		D56006FC18B2896800D0C342 /* Build configuration list for PBXNativeTarget "4physicsBodys_Linked_By_RopeJointTests" */ = {
+		D56006FC18B2896800D0C342 /* Build configuration list for PBXNativeTarget "BalloonGameTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				D56006FD18B2896800D0C342 /* Debug */,
